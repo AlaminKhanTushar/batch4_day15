@@ -1,0 +1,14 @@
+{
+  "name": "batch4_day15/batch4_day15",
+  "type": "project",
+  "description": "A simple class project",
+  "license": "MIT",
+  "keywords": [],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}
